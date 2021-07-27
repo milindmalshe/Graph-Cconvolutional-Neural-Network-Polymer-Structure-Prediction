@@ -1,1 +1,1 @@
-# GCN-CarbonNanotube-Polymer
+# Graph Convolutional Neural Network Polymer Structure Prediction
